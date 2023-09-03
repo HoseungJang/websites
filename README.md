@@ -1,13 +1,15 @@
 # websites
 
-[English](./README.md) [한국어](./ko.md)
-
 My websites map (\*.hoseung.me)
 
-- [https://about.hoseung.me](https://about.hoseung.me)
+- https://about.hoseung.me ([한국어](https://about.hoseung.me))
 
   - Resume
 
-- [https://blog.hoseung.me](https://blog.hoseung.me)
+- https://blog.hoseung.me ([한국어](https://blog.hoseung.me) / [English](https://blog.hoseung.me/en))
 
-  - Development blog
+  - Tech blog
+
+- https://craft.hoseung.me
+
+  - Project to make and share gorgeous user interfaces
