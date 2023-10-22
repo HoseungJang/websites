@@ -2,7 +2,7 @@
 
 My websites map (\*.hoseung.me)
 
-- https://about.hoseung.me ([한국어](https://about.hoseung.me))
+- https://about.hoseung.me ([한국어](https://about.hoseung.me) / [English](https://about.hoseung.me/en))
 
   - Resume
 
